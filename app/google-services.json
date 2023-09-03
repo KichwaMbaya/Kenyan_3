@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869197621409",
+    "project_id": "kenyan3-beca6",
+    "storage_bucket": "kenyan3-beca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869197621409:android:fc8980f7f7b0be66d1a8e0",
+        "android_client_info": {
+          "package_name": "com.justkeepfaith.mpinindenga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869197621409-ngvu2g1vsqbvnb1bhv736bp3obf2cdc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6hXMLWQdOfn2yZdSKcqvqhtlhdP7yzMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869197621409-ngvu2g1vsqbvnb1bhv736bp3obf2cdc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

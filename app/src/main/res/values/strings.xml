@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Quick Funds</string>
+
+    <string-array name="purpose">
+        <item>Business Loan</item>
+        <item>Education Loan</item>
+        <item>Medication Loan</item>
+        <item>Emergency Loan</item>
+        <item>Farming Loan</item>
+        <item>Personal Loan</item>
+        <item>Vacation Loan</item>
+        <item>Other Loans</item>
+    </string-array>
+
+    <string-array name="counties">
+        <item>47. Nairobi</item>
+        <item>1. Mombasa</item>
+        <item>2. Kwale</item>
+        <item>3. Kilifi</item>
+        <item>4. Tana River</item>
+        <item>5. Lamu</item>
+        <item>6. Taita Taveta</item>
+        <item>7. Garrissa</item>
+        <item>8. Wajir</item>
+        <item>9. Mandera</item>
+        <item>10. Marsabit</item>
+        <item>11. Isiolo</item>
+        <item>12. Meru</item>
+        <item>13. Tharaka-Nithi</item>
+        <item>14. Embu</item>
+        <item>15. Kitui</item>
+        <item>16. Machakos</item>
+        <item>17. Makueni</item>
+        <item>18. Nyandarua</item>
+        <item>19. Nyeri</item>
+        <item>20. Kirinyaga</item>
+        <item>21. Muranga</item>
+        <item>22. Kiambu</item>
+        <item>23. Turkana</item>
+        <item>24. West Pokot</item>
+        <item>25. Samburu</item>
+        <item>26. Trans-Nzoia</item>
+        <item>27. Uasin Gishu</item>
+        <item>28. Elgeyo-Marakwet</item>
+        <item>29. Nandi</item>
+        <item>30. Baringo</item>
+        <item>31. Laikipia</item>
+        <item>32. Nakuru</item>
+        <item>33. Narok</item>
+        <item>34. Kajiado</item>
+        <item>35. Kericho</item>
+        <item>36. Bomet</item>
+        <item>37. Kakamega</item>
+        <item>38. Vihiga</item>
+        <item>39. Bungoma</item>
+        <item>40. Busia</item>
+        <item>41. Siaya</item>
+        <item>42. Kisumu</item>
+        <item>43. Homa Bay</item>
+        <item>44. Migori</item>
+        <item>45. Kisii</item>
+        <item>46. Nyamira</item>
+    </string-array>
+
+    <string name="faqs">1. How is interest on the loan calculated?\n\n
+      We use the formular:
+      Interest is = 0.07*loan amount borrowed*period.\n\n
+    2. How is the loan disbursed?\n\n
+      We disburse loans only to M-Pesa numbers.\n\n
+    3. How can I extend my loan repayment period?\n\n
+      Contact our customer service and they will enable you to safely extend the period.\n\n
+    4. Our Physical Location.\n\n
+      Everglow Investments Inc which manages Quick Funds is located in\n\n
+      Nairobi, Kenya</string>
+
+    <string name="limit">Income - This is perhaps, one of the most important factors that we consider while determining your eligibility for a loan.
+     Your eligibility for a loan is higher if you income is on the higher side simply because your repayment capacity is higher. Your maximum loan amount
+    will also be enhanced if your earning is high.\n\nAge - Age is also another factor that affects your home loan eligibility significantly and also
+        helps the lender to determine the term of the loan. The younger you are, the higher will be your eligibility for a loan.\n\n
+    Credit Score - We will look at your credit score to determine your loan eligibility and 750 is the minimum score that you should have.\n\n
+    Debt Obligation - If your debt obligation is high, your eligibility for a loan may be lower simply because we will assume that you may not be able
+        to pay the EMIs for the loan.\n\n
+    Occupation - Your occupation is a vital determinant of your eligibility for a home loan. If you are a salaried individual, your eligibility will
+        be higher since you have a stable source of income. Professionals such as doctors, architects, etc., and self-employed individuals such as
+        businessmen are also eligible for a home loan.\n\n
+    NB: Above Tips apply mostly on the second loan application</string>
+</resources>

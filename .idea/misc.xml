@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Kenyan3/app/src/main/res/layout/activity_applicazione.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Kenyan3/app/src/main/res/layout/activity_concludere.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Kenyan3/app/src/main/res/layout/activity_domande_sul_prestito.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Kenyan3/app/src/main/res/layout/activity_limitare_il_gioco_mentale.xml" value="0.1766304347826087" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Kenyan3/app/src/main/res/layout/activity_main.xml" value="0.203125" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Kenyan3/app/src/main/res/layout/activity_pagina_di_cattura.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Siele/Desktop/Projects/Apps/Kenyan3/app/src/main/res/layout/activity_periodo_di_mandato.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

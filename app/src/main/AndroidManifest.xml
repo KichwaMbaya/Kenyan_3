@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Kenyan3"
+        tools:targetApi="31">
+        <activity
+            android:name=".periodo_di_mandato"
+            android:exported="false" />
+        <activity
+            android:name=".registrare"
+            android:exported="false" />
+        <activity
+            android:name=".profilo"
+            android:exported="false" />
+        <activity
+            android:name=".valutaci"
+            android:exported="false" />
+        <activity
+            android:name=".domande_sul_prestito"
+            android:exported="false" />
+        <activity
+            android:name=".limitare_il_gioco_mentale"
+            android:exported="false" />
+        <activity
+            android:name=".accesso"
+            android:exported="false" />
+        <activity
+            android:name=".in_corso"
+            android:exported="false" />
+        <activity
+            android:name=".casa"
+            android:exported="false" />
+        <activity
+            android:name=".concludere"
+            android:exported="false" />
+        <activity
+            android:name=".pagina_di_cattura"
+            android:exported="false" />
+        <activity
+            android:name=".applicazione"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
